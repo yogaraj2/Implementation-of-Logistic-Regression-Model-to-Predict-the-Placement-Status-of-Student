@@ -69,7 +69,6 @@ print("confusion_matrix:\n",confusion)
 print("classification_report:\n",cr)
 ```
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
 
 ![Screenshot 2024-03-12 162033](https://github.com/yogaraj2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/153482637/e254d567-3441-43a0-9ba0-4b124150350a)
 
